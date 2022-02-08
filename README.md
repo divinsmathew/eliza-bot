@@ -6,6 +6,6 @@
 
 ## The Project
 
-This project was a small school assignment and it mereley mirrors Eliza, the psychotherapist over at [masswerk.at/elizabot](https://www.masswerk.at/elizabot/) and all the credits belong to them. This project is based on the DOCTOR script, which was built on top of Eliza in the context of psychotherapy. And the best part.. it speaks!
+This project was a small school assignment, and it merely mirrors Eliza, the psychotherapist over at [masswerk.at/elizabot](https://www.masswerk.at/elizabot/), and all the credits belong to them. This project is based on the DOCTOR script, which was built on top of Eliza in the context of psychotherapy. And the best part.. it speaks!
 
 ![Screenshot 2022-02-07 031121](https://user-images.githubusercontent.com/13608193/152702562-9a0bc0c9-06da-4021-a700-6a22c34fea8e.png)
